@@ -1,0 +1,2 @@
+model_checkpoint_path: "candy"
+all_model_checkpoint_paths: "candy"
