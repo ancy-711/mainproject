@@ -1,0 +1,7 @@
+{
+	"checkpoint":"data/models/udnie/model_checkpoint.ckpt",
+	"format":"XVID",
+    "video":"data/videos/test.mp4",
+    "output":"output/styled_video.avi",
+    "size":[640,480]
+}
